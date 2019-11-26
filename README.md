@@ -1,7 +1,7 @@
 # PPATTeamErik
-This is a collection of all files needed to make a hinged wedge assistive mounting device for wheelchair boarding. These are Solidworks 2018 files and require Solidworks 2018 or later to open. The part files for the components that need to be 3D Printed or machined are additionally attached directly in the Instructable. 
+This is a collection of all files needed to make a hinged wedge assistive mounting device for wheelchair boarding. These are Solidworks 2018 files and require Solidworks 2018 or later to open. The part files for the components that need to be 3D Printed or machined are additionally attached directly in the Instructable *Insert Link*. 
 
-STEP versions of all parts and assemblies can be found at PPATTeamErik/FilesForInstructable, and are linked throughout the Instructable *Insert Link*. These STEP files are compatible with other versions of CAD and are backwards compatible with Solidworks.
+STEP versions of all parts and assemblies can be found at PPATTeamErik/FilesForInstructable/STEP Files For Documentation, and are linked throughout the Instructable. These STEP files are compatible with other versions of CAD and are backwards compatible with Solidworks.
 
 Explanations of the purposes of each part, how it is made, and suggestions for modifications are included in each step of the Instructable. Directions for assembly are included at the end of the Instructable and below.
 1. Slide one 7.5" long shaft through the 1/2" diameter holes in a 3D printed hinged wedge.
